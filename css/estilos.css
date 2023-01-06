@@ -22,3 +22,12 @@ body {
 #post {
   padding: 1em
 }
+
+#cabecera {
+  background: #33a;
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, .6);
+  color: #fff;
+  font-weight: 700;
+  margin: 0;
+  padding: .5em
+}
